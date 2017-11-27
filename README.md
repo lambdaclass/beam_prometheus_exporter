@@ -12,6 +12,5 @@ add to application resource file
 
 add configuration to app environment:
 
-port 9101
-
-basic auth: {auth, Username, Password}
+{port, 9101}
+{auth, {Username, Password}}
