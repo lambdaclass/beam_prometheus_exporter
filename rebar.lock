@@ -1,0 +1,18 @@
+{"1.1.0",
+[{<<"accept">>,{pkg,<<"accept">>,<<"0.3.3">>},2},
+ {<<"cowboy">>,{pkg,<<"cowboy">>,<<"2.1.0">>},0},
+ {<<"cowlib">>,{pkg,<<"cowlib">>,<<"2.0.1">>},1},
+ {<<"prometheus">>,{pkg,<<"prometheus">>,<<"3.4.4">>},0},
+ {<<"prometheus_cowboy">>,{pkg,<<"prometheus_cowboy">>,<<"0.1.4">>},0},
+ {<<"prometheus_httpd">>,{pkg,<<"prometheus_httpd">>,<<"2.1.8">>},1},
+ {<<"ranch">>,{pkg,<<"ranch">>,<<"1.4.0">>},1}]}.
+[
+{pkg_hash,[
+ {<<"accept">>, <<"548EBB6FB2E8B0D170E75BB6123AEA6CEECB0189BB1231EEADF52EAC08384A97">>},
+ {<<"cowboy">>, <<"69F9DB3B23C24AB6B3A169A6357130C16B39CDA1A1F8C582F818883EE552589D">>},
+ {<<"cowlib">>, <<"4DFFFB1DB296EAB9F2E8B95EE3017007F674BC920CE30AEB5A53BBDA82FC38C0">>},
+ {<<"prometheus">>, <<"69E969F1D12A441D02B598C9D5CE8839AD34C955E667DCE4B246844510682242">>},
+ {<<"prometheus_cowboy">>, <<"87693CE8083F0B4DEF62AF0E8D0428A94F4DF8802D12D41ACAED4270DCB95EF7">>},
+ {<<"prometheus_httpd">>, <<"8F4B83712FCFF5870F1B6664E6FA4F1C2EE2C72729FB04D46445C77DE65802F6">>},
+ {<<"ranch">>, <<"10272F95DA79340FA7E8774BA7930B901713D272905D0012B06CA6D994F8826B">>}]}
+].
