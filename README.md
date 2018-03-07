@@ -5,6 +5,8 @@ A Cowboy 2 application that just exposes the `/metrics` handler of
 
 Most of the real work is done by [prometheus.erl](https://github.com/deadtrickster/prometheus.erl/). However we wanted something easy to add quickly to our release. This projects quickly exposes BEAM metrics to prometheus.
 
+You can use the [beam dashboards](https://github.com/deadtrickster/beam-dashboards) to graph this information in grafana.
+
 ## Usage
 
 - Add the depedency to rebar.config
